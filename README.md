@@ -1,4 +1,4 @@
-<img src="../img/helloworld.jpeg" align="center" style="width: 100%" />
+<img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
 ### Whether you're a seasoned code-chef 👩‍🍳 , a git-gourmand 🍣 or you're just here for the digital-dessert 🍰, I'm sure you'll find something interesting in my repos-restaurant. So, what are you waiting for? Have a look what's on the (burger)-menu 🍔 today, drop me a line if you like my recipes (my work 😉) but most importantly: Enjoy your stay!
 
