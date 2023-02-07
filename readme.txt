@@ -1,4 +1,5 @@
-<img src="../img/helloworld.jpeg" align="center" style="width: 100%" />
+# Hi there 👋 and welcome to my page!
+
 
 ### Whether you're a seasoned code-chef 👩‍🍳 , a git-gourmand 🍣 or you're just here for the digital-dessert 🍰, I'm sure you'll find something interesting in my repos-restaurant. So, what are you waiting for? Have a look what's on the (burger)-menu 🍔 today, drop me a line if you like my recipes (my work 😉) but most importantly: Enjoy your stay!
 
@@ -85,4 +86,3 @@ I'll keep this just in case:
 <div align="center">
 <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" align="center" style="width: 400px" /> 
 <div/>
-
