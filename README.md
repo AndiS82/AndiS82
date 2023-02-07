@@ -31,7 +31,7 @@ I'll keep this just in case:
 
 
 
-### Frontend  
+### Frontend: 
           
 <div align="center">  
 <img align="center" alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />     
@@ -47,7 +47,7 @@ I'll keep this just in case:
 </td><td valign="top" width="33%">
           
 
-### Backend  
+### Backend:  
           
 <div align="center">  
 <img align="center" alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -61,7 +61,7 @@ I'll keep this just in case:
 
 
 
-### Other 
+### Other:
           
 <div align="center">  
 <img align="center" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -77,7 +77,18 @@ I'll keep this just in case:
 </div>
 
 </td></tr></table>  
-          
+ 
+ 
+ ### Stats and stuff:          
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndiS82&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+         
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AndiS82&&style=flat-square" align="center" />
+</div>
+ 
+ 
 <br/>  
 
                     
@@ -85,4 +96,8 @@ I'll keep this just in case:
 <div align="center">
 <img src="./img/shoecss.jpg" align="center" style="width: 400px" /> 
 <div/>
+
+<br/>
+
+
 
