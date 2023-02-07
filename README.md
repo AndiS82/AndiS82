@@ -83,6 +83,6 @@ I'll keep this just in case:
                     
 ### Last but not least:
 <div align="center">
-<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg" align="center" style="width: 400px" /> 
+<img src="./img/shoecss.jpg" align="center" style="width: 400px" /> 
 <div/>
 
