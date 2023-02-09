@@ -92,7 +92,7 @@ I'll keep this just in case:
 <br/>  
 
                     
-### Last but not least:
+### Footer:
 <div align="center">
 <img src="./img/shoecss.jpg" align="center" style="width: 400px" /> 
 <div/>
