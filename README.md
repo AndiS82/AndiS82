@@ -15,15 +15,15 @@
 
 Here are some ideas to get you started:
 
-I'll keep this just in case:
+I'll keep this premade stuff here just in case:
 - 🔭 I’m currently working on various hobby projects
-- 🌱 I’m currently about to finish a coding bootcamp.
+- 🌱 I’m currently employed as a Frontend Developer.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Jesus Christ and the Gospel.
 - 📫 How to reach me: ...
-- 😄 Pronouns: His Imperial Majesty
-- ⚡ Fun fact: 
+- 😄 Pronouns: Bible, Genesis 1:27 "So God created man in His own image, in the image of God created He him; male and female created He them."
+- ⚡ Fun fact: The Bible is true. Yes, I'm serious. 
 -->
 
 ## Languages 💬, Tools 🛠 and Skills 💪  
