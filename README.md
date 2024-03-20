@@ -1,8 +1,7 @@
 <img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
-# Hi! I'm Andy.
-## Welcome to my Github profile.
-### I used to work as a certified nurse practitioner until I discovered the magic of web development. Now I'm a certified Full-Stack Developer (MERN and MEAN stack).
+# Welcome to my Github profile. I'm Andy!
+### I used to work as a certified nurse practitioner until I discovered the world of web development. Now I'm a certified Full-Stack Developer (MERN and MEAN stack) and my job is hands down the best job ever.
 <!--
 **AndiS82/AndiS82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,7 +76,8 @@ I'll keep this premade stuff here just in case:
 </td></tr></table>  
  
  
- ### Stats and stuff:          
+ ### Stats and stuff: 
+ ### Due to being a dad with a very busy work schedule in my full-time job as a developer, I haven't updated this profile as regularly as I wish I could have.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndiS82&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
