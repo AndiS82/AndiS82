@@ -1,8 +1,8 @@
 <img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
-### Hi! I'm Andy.
-### Welcome to my Github profile.
-## I used to work as a certified nurse practitioner until I discovered the magic of web development and when I learned to code, my passion became my job.
+# Hi! I'm Andy.
+## Welcome to my Github profile.
+### I used to work as a certified nurse practitioner until I discovered the magic of web development and when I learned to code, my passion became my job.
 <!--
 **AndiS82/AndiS82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
