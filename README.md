@@ -1,22 +1,15 @@
 <img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
-### Whether you're a seasoned code-chef 👩‍🍳 , a git-gourmand 🍣 or you're just here for the digital-dessert 🍰, I'm sure you'll find something interesting in my repos-restaurant. So, what are you waiting for? Have a look what's on the (burger)-menu 🍔 today, drop me a line if you like my recipes (my work 😉) but most importantly: Enjoy your stay!
-
-## Auch für die Englisch-Muffel unter euch gilt selbstverständlich: Herzlich willkommen auf meinem Profil! 
-
-
-### Wenn auch du bei deinen Fetches statt einem Promise hin und wieder auch gern mal einen 🍟 zurückbekommen würdest, dann bist du hier goldrichtig! 
-
-### Wie es sich für einen angehenden Javascript-Jongleur 🎪, React-Rätselknacker 🦸‍♂️ und passionierten HTML-Hobbykoch 👩‍🍳 gehört, dreht sich hier standesgemäß alles um meine kleine (aber feine) Codeküche. Hier servieren wir alles mit heißem HTML5, knusprigem CSS, jalapeño-scharfem JavaScript und raffiniertem React. Selbstverständlich kreiere ich dir als ehemaliger Barkeeper in unserer Backend-Bar den weltbesten Mojito mit den erlesensten Minzblättern des MongoDB-Logos! 🍹
-
-### Von Git-Gourmets 🍣, über Sous-Vide Scriptprofis 🥩 bis hin zu Burgermenu-Begeisterten 🍔 - hier kommt bestimmt jeder früher oder später auf seine Kosten! Also los, nimm Platz in meinem Repo-Restaurant, schnapp dir die Speisekarte und genieße mein kleines GitHub-Galadinner!
+### Hi! I'm Andy.
+### Welcome to my Github profile.
+## I used to work as a certified nurse practitioner until I discovered the magic of web development and when I learned to code, my passion became my job.
 <!--
 **AndiS82/AndiS82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 I'll keep this premade stuff here just in case:
-- 🔭 I’m currently working on various hobby projects
+- 🔭 I always code hobby projects when I'm not at work.
 - 🌱 I’m currently employed as a Frontend Developer.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -74,7 +67,8 @@ I'll keep this premade stuff here just in case:
 <img align="center" alt="Gimp" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img align="center" alt="blender" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="center" alt="NPM" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="center" alt="PHPStorm" width="60px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" />
+<img align="center" alt="PHPStorm" width="60px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
+          
           
           
           
