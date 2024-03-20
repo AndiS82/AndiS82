@@ -1,7 +1,7 @@
 <img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
 # Welcome to my Github profile. I'm Andy!
-### I used to work as a certified nurse practitioner until I discovered the world of web development. Now I'm a certified Full-Stack Developer (MERN and MEAN stack) and my job is hands down the best job ever.
+### I used to work as a certified nurse practitioner until I discovered the world of web development. Now I'm a certified Full-Stack Developer (MERN and MEAN stack) and my job is the best job ever.
 <!--
 **AndiS82/AndiS82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,6 +48,8 @@ I'll keep this premade stuff here just in case:
 <img align="center" alt="Express" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
 <img align="center" alt="Firebase" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="center" alt="MongoDB" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="center" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
 </div>
 
 </td><td valign="top" width="33%">
