@@ -1,6 +1,6 @@
 <img src="./img/helloworld.jpeg" align="center" style="width: 100%" />
 
-# Welcome to my Github profile. I'm Andy!
+# Welcome to my Github profile. I'm Andi!
 ### I used to work as a certified nurse practitioner until I discovered the world of web development. Now I'm a certified Full-Stack Developer (MERN and MEAN stack) and my job is the best job ever.
 <!--
 **AndiS82/AndiS82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
